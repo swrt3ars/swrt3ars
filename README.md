@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img width="320" height="41" alt="8a8a2081" src="https://github.com/user-attachments/assets/b8b2f413-3570-4e56-9cf3-1fe2b852261d" />
+<img width="400" height="47" alt="tumblr_2a3da1602f918c2d579e590ca9188264_5fc5ef56_400" src="https://github.com/user-attachments/assets/fc27d6ac-719d-423e-84a0-af6c23216861" />
 </p>
 
 
@@ -14,9 +14,6 @@
 </p>
 
 
-<p align="center">
-<img width="320" height="41" alt="8a8a2081" src="https://dividers.crd.co/assets/images/gallery10/8a8a2081.gif?v=05d33f91" />
-</p>
 
 
 
