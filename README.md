@@ -11,6 +11,14 @@
 
 <p align="center">
 ﹌﹌﹌﹌﹌𓊆૮₍ ´ ꒳ `₎ა 𓊇﹌﹌﹌﹌﹌
+ 
+<div align="center">
+  <a href="https://swrtears.atabook.org/">my ata</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://r1yainf0.carrd.co/">carrd</a> &nbsp;&nbsp;&nbsp;&nbsp; 
+</div>
+
+<p align="center">
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
 </p>
 
 
@@ -20,4 +28,4 @@
 | | |
 | :---: | :---: |
 | <p align="center">𓆝 𓆟 𓆞 𓆝 𓆟 <p align="center"> 𝑹iya ˚꩜｡ SHE\HER </p><p align="center">𝒸𝒽𝑒𝒸𝓀 𝑜𝓊𝓉 𝓂𝓎 𝒸𝒶𝓇𝓇𝒹 𝒷𝑒𝒻𝑜𝓇𝑒 𝒾𝓃𝓉 !</p> <p align="center">𓆝 𓆟 𓆞 𓆝 𓆟</p> | <img width="736" height="352" alt="загрузка (1)" src="https://github.com/user-attachments/assets/08f842e2-e803-44d7-a4d7-b26fdc117804" />
- |
+
