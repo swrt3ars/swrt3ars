@@ -36,6 +36,12 @@
 
 
 <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31scjr7c3il7bswp3vsnjlz3cic4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31scjr7c3il7bswp3vsnjlz3cic4&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=68a6bb&bar_color_cover=false&mode=dark">
+  </a>
+</p>
+
+<p align="center">
 <img width="336" height="40" alt="tumblr_2a3da1602f918c2d579e590ca9188264_5fc5ef56_400" src="https://64.media.tumblr.com/6f425e944832ffb8b919a4f17c10d19b/c65e6dbd388d2a43-14/s400x600/d945c84b414e3d00d645b5bfdc08e5dadb8cba50.pnj" />
 </p>
 
