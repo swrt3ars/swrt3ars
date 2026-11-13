@@ -13,6 +13,10 @@
 <p align="center">
 ﹌﹌﹌﹌﹌𓊆૮₍ ´ ꒳ `₎ა 𓊇﹌﹌﹌﹌﹌
  
+ <p align="center">
+<img width="97" height="57" alt="e121" src="https://github.com/user-attachments/assets/f61d72a6-82a0-44e5-a630-3f285c43c0a1" />
+</p>
+
 <div align="center">
   <a href="https://swrtears.atabook.org/">my ata</a> &nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://r1yainf0.carrd.co/">carrd</a> &nbsp;&nbsp;&nbsp;&nbsp; 
@@ -36,7 +40,4 @@
 </p>
 
  
-<p align="center">
-<img width="97" height="57" alt="e121" src="https://github.com/user-attachments/assets/f61d72a6-82a0-44e5-a630-3f285c43c0a1" />
-</p>
 
