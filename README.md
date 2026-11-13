@@ -40,4 +40,10 @@
 <img width="97" height="57" alt="e121" src="https://github.com/user-attachments/assets/f61d72a6-82a0-44e5-a630-3f285c43c0a1" />
 </p>
 
+<a href="https://github.com/tthn0/Spotify-Readme">
+  <img
+    src="https://swrt3ars.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
 
